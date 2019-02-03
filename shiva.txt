@@ -11,6 +11,8 @@ class Computer {
     Computer my = new Computer();
     Laptop your = new Laptop();
    
+    my.computer_method();
+    your.laptop_method();
   }
 }
  
